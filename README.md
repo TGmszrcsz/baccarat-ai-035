@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录关联
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 034 篇 - 百家乐Ai预测分析工具：迟到结果如何影响报表结算](https://github.com/TGmszrcsz/baccarat-ai-034) ｜ [下一篇：第 036 篇 - 百家乐Ai预测分析工具：一局多次输出该选哪一次评估](https://github.com/TGmszrcsz/baccarat-ai-036)
+
+<!-- article-chain:end -->
+
 来源平台修正了一条历史结果，已有评价随之改变。本篇围绕“结果修正后怎样保留旧结论”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
